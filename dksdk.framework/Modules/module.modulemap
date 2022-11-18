@@ -1,0 +1,11 @@
+framework module dksdk {
+  umbrella header "dksdk.h"
+
+  export *
+  module * { export * }
+}
+
+module dksdk.Swift {
+  header "dksdk-Swift.h"
+  requires objc
+}
