@@ -24,13 +24,9 @@
 		<data>
 		ycUL1Gtpq6YuYcZdirCN0ejIOzg=
 		</data>
-		<key>Localizable.strings</key>
-		<data>
-		DfbtEf64PXjOKMneVvYoT9cMt6w=
-		</data>
 		<key>Modules/dksdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		kDGNn8tSbOrMjMXvfOVJDUMZEFg=
+		1WMKaSNQgJLLt1ZGT+YxZovevek=
 		</data>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -42,7 +38,7 @@
 		</data>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		z1YIePUVIQSqwp+HEB+UfI2leNo=
+		DDbuG0Ea2XLtp8KY9YnmxDStXbM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,18 +75,11 @@
 			NW5CJe0HffJYaGeVeXhBBLG3pXUuusxzBKLU7A8Z6Wg=
 			</data>
 		</dict>
-		<key>Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nDXHlQH8mNs+4xgjb1lyM8cxpFEGiWS98Pb2jw3rjcA=
-			</data>
-		</dict>
 		<key>Modules/dksdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tnjuFL9WtNiUfSgRdiCR1xaMSOpwpXO5hYIJX85hvZA=
+			lAFXLGxvOsnqe3XcTIyxe3vmVftwo9RlPyBjf2OB6J0=
 			</data>
 		</dict>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -111,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C0Xhignb1/Nux3wuhCWVt9RLP/fPtobLNfoa+smvLhM=
+			vfw64tFC2tqjiZh8CVQg7DauMhbUiZAGwRpPQLGEUhk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
