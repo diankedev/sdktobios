@@ -266,9 +266,17 @@ SWIFT_CLASS("_TtC5dksdk11BlueManager")
 - (void)netConnSuc;
 @end
 
+@class NSString;
 
 SWIFT_CLASS("_TtC5dksdk2Dk")
 @interface Dk : NSObject
+- (void)Dk;
+- (void)initSdkWithBusinessId:(NSString * _Nonnull)businessId phone:(NSString * _Nonnull)phone callback:(void (^ _Nonnull)(NSInteger, NSString * _Nonnull))callback SWIFT_METHOD_FAMILY(none);
+- (BOOL)is4GDevicesWithSerialno:(NSString * _Nonnull)serialno SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)isWiFiDevicesWithSerialno:(NSString * _Nonnull)serialno SWIFT_WARN_UNUSED_RESULT;
+- (void)netConfigBindWithBluemanager:(BlueManager * _Nonnull)bluemanager serialno:(NSString * _Nonnull)serialno ssid:(NSString * _Nonnull)ssid pw:(NSString * _Nonnull)pw callback:(void (^ _Nonnull)(NSInteger, NSString * _Nonnull))callback;
+- (void)bindWithSerialno:(NSString * _Nonnull)serialno callback:(void (^ _Nonnull)(NSInteger, NSString * _Nonnull))callback;
+- (void)resetWithDeviceId:(NSString * _Nonnull)deviceId callback:(void (^ _Nonnull)(NSInteger, NSString * _Nonnull))callback;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
