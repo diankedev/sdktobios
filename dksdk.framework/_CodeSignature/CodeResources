@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/dksdk-Swift.h</key>
 		<data>
-		ylfomkRH7wCp85JoxDu7AMCqJPs=
+		aGQxBMUOGGr6NseDR30f2u6bl/I=
 		</data>
 		<key>Headers/dksdk.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LV+KXJbDnYwQ3uZvTBCCu7OUNb0=
+		7Ykd/DX8Vr9b7rSjZGgpR9P9vSI=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/dksdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		hZSSh+wXgKCS3Ad84DMk7y+ciNo=
+		mu3t+aTKnsweabX73qMktvgFCMY=
 		</data>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		FvNhs+cPD7dWYwkiClBX1GS/WJg=
+		I0Y2QTtRtflY/obTgxI8Scaqq+4=
 		</data>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		MU+DzZr7zbHzWchRb5FHuFxbacI=
+		MWshO+tHLC64uMJ3wYi7g1IWtSg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -58,7 +58,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EGi9HbRGtGdHDrg8gWHTvv+v5rtLMenAZy1n1gChbxw=
+			tdrDWk+j6B+7pFrp9iYchMxGBhdxN3wL+pYopof2eSg=
 			</data>
 		</dict>
 		<key>Headers/dksdk.h</key>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uxx2Gri7Yh/mPqazI0YDGnNSm+wCp/dcEOTy4YBcWmE=
+			O2+Zlw/M8xEm+mJ6u3807bytHUGrwDljoVMZmd3Uw5g=
 			</data>
 		</dict>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WzUTNiZU7IKCiDm/sAU/5AopWJH8iSQhsduAkceA3Zk=
+			8RflyqmFFoj3U1Dw8ASZkuGvXkDI3J2BnuvHb237ERk=
 			</data>
 		</dict>
 		<key>Modules/dksdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			14H3zQf/PYcA87mSHnrqbvRdG2EnwvQWSaGgi3fWCjM=
+			N8Xc2t1eUG6yAoz53whEX7oeg6MyE/u+c2wUjDCn4+A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
